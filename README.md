@@ -5,7 +5,7 @@ This project demonstrates real-time **Bluetooth communication between two Arduin
 
 ---
 
-## Problem Statement 🧩  
+## Problem Statement  
 In safety-critical environments, the need for reliable proximity detection and collision prevention is paramount. Current systems are often costly and complex, limiting their accessibility.  
 This project focuses on designing a **low-cost solution** using accessible components to:  
 - Monitor proximity using an ultrasonic sensor.  
@@ -16,7 +16,7 @@ Potential applications include **industrial areas**, **parking systems**, and **
 
 ---
 
-## Features ✨  
+## Features   
 - **Obstacle Detection**: Detects objects within a predefined range.  
 - **Wireless Communication**: Uses Bluetooth modules to transmit data between Arduinos.  
 - **Audible Alerts**: Triggers a buzzer on the receiving device for real-time warnings.  
@@ -24,7 +24,7 @@ Potential applications include **industrial areas**, **parking systems**, and **
 
 ---
 
-## Project Journey 📖  
+## Project Journey   
 Our development journey involved several key steps:  
 1. **Component Testing**: Ensured all components performed reliably under various conditions.  
 2. **Soldering**: Assembled the hardware using Arduino Nanos for compact design.  
@@ -35,7 +35,7 @@ Our development journey involved several key steps:
 
 ---
 
-## Components Used 🛠️  
+## Components Used   
 - 2x **Arduino Nano**  
 - 2x **HC-05 Bluetooth Module**  
 - 1x **Ultrasonic Sensor (HC-SR04)**  
@@ -44,7 +44,7 @@ Our development journey involved several key steps:
 
 ---
 
-## Setup Instructions ⚙️  
+## Setup Instructions ⚙ 
 ### 1. **Hardware Connections**  
 - Connect the **ultrasonic sensor** to the first Arduino:  
   - Trigger Pin → D2  
@@ -67,7 +67,7 @@ Our development journey involved several key steps:
 
 ---
 
-## Future Applications 🔮  
+## Future Applications 
 This project serves as a foundation for more advanced systems, such as:  
 - **Obstacle Detection in Robotics**: Enhance navigation and safety.  
 - **Industrial Safety Systems**: Prevent accidents in manufacturing plants.  
@@ -75,7 +75,7 @@ This project serves as a foundation for more advanced systems, such as:
 
 ---
 
-## Project Images 📷  
+## Project Images  
 ![Project Prototype](media/project_photo.jpg)  
 *Caption: Arduino prototype showcasing the ultrasonic sensor and Bluetooth communication.*  
 
@@ -84,25 +84,9 @@ This project serves as a foundation for more advanced systems, such as:
 
 ---
 
-## Contributions 🤝  
+## Contributions   
 This project was collaboratively developed by:  
 - [Shriya](https://www.linkedin.com/in/your-link-here)  
 - [Anushka Saini](https://www.linkedin.com/in/anushka-saini)  
 
 We welcome feedback and ideas for future enhancements.  
-
----
-
-## License 📜  
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
-## Connect with Us 🌐  
-If you're working on similar projects or have ideas for collaboration, feel free to connect with us!  
-For a detailed breakdown of the project, check out our [LinkedIn post](your-linkedin-post-link).  
-
----
-
-# Tags  
-#Arduino #BluetoothCommunication #IoT #EngineeringProjects #Innovation #SafetySystems  
