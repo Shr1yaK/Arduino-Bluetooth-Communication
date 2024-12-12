@@ -87,7 +87,7 @@ This project serves as a foundation for more advanced systems, such as:
 
 ## Contributions   
 This project was collaboratively developed by:  
-- [Shriya](https://www.linkedin.com/in/your-link-here)  
-- [Anushka Saini](https://www.linkedin.com/in/anushka-saini)  
+- [Shriya](https://www.linkedin.com/in/shriya-kansal/)  
+- [Anushka Saini](https://www.linkedin.com/in/anushka-saini-5155a02b5/)  
 
 We welcome feedback and ideas for future enhancements.  
