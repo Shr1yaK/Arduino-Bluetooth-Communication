@@ -1,4 +1,4 @@
-# Arduino-to-Arduino Bluetooth Communication Project 🎉  
+# Arduino-to-Arduino Bluetooth Communication Project  
 
 ## Overview  
 This project demonstrates real-time **Bluetooth communication between two Arduinos**, leveraging an **ultrasonic sensor** and a **buzzer** to detect obstacles and provide audible warnings. Designed as a **cost-effective safety solution**, the system can classify zones as "Danger" or "Safe" and alert users in real time.  
