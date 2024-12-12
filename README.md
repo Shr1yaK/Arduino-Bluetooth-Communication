@@ -39,7 +39,8 @@ Our development journey involved several key steps:
 - 2x Arduino Uno  
 - 2x HC-05 Bluetooth Module  
 - 1x Ultrasonic Sensor (HC-SR04) 
-- 1x Buzzer module  
+- 1x Buzzer module
+- 2x LEDs
 - Jumper wires, resistors, and soldering equipment  
 
 ---
