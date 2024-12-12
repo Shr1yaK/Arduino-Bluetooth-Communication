@@ -36,10 +36,10 @@ Our development journey involved several key steps:
 ---
 
 ## Components Used   
-- 2x **Arduino Nano**  
-- 2x **HC-05 Bluetooth Module**  
-- 1x **Ultrasonic Sensor (HC-SR04)**  
-- 1x **Buzzer**  
+- 2x Arduino Uno  
+- 2x HC-05 Bluetooth Module  
+- 1x Ultrasonic Sensor (HC-SR04) 
+- 1x Buzzer module  
 - Jumper wires, resistors, and soldering equipment  
 
 ---
@@ -52,7 +52,7 @@ Our development journey involved several key steps:
 - Connect the **HC-05 Bluetooth module** to each Arduino:  
   - RX → D10  
   - TX → D11  
-- Connect the **buzzer** to the second Arduino:  
+- Connect the **buzzer module** to the second Arduino:  
   - Positive → D4  
   - Negative → GND  
 
