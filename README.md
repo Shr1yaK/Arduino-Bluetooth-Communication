@@ -44,7 +44,7 @@ Our development journey involved several key steps:
 
 ---
 
-## Setup Instructions ⚙ 
+## Setup Instructions 
 ### 1. **Hardware Connections**  
 - Connect the **ultrasonic sensor** to the first Arduino:  
   - Trigger Pin → D2  
