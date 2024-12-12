@@ -57,9 +57,9 @@ Our development journey involved several key steps:
   - Negative → GND  
 
 ### 2. **Upload Code**  
-- Use the provided Arduino sketches in the `code/` folder.  
-  - `obstacle_detection.ino`: For the transmitting Arduino (with the ultrasonic sensor).  
-  - `buzzer_alert.ino`: For the receiving Arduino (with the buzzer).  
+- Use the provided Arduino sketches in the `codes/` folder.  
+  - `master_code.ino`: For the transmitting Arduino (with the ultrasonic sensor).  
+  - `slave_code.ino`: For the receiving Arduino (with the buzzer).  
 
 ### 3. **Test the System**  
 - Power up both Arduinos.  
