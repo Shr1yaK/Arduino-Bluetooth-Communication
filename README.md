@@ -77,11 +77,13 @@ This project serves as a foundation for more advanced systems, such as:
 ---
 
 ## Project Images  
-![Project Prototype](media/project_photo.jpg)  
-*Caption: Arduino prototype showcasing the ultrasonic sensor and Bluetooth communication.*  
+![Block Diagram](images/Block_Diagram.png)  
 
-![Wiring Diagram](media/wiring_diagram.png)  
-*Caption: Schematic diagram of hardware connections.*  
+![Circuit Diagram](images/Circuit_Diagram.png)
+
+![Final Project without object](images/w-o_obstacle.png)
+
+![Final Project with object](images/w_obstacle.png)
 
 ---
 
